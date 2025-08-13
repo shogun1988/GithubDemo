@@ -19,3 +19,5 @@ function findDuplicateCharacters(str: string): string[] {
     return duplicates;
 }
 
+// this a sample file for testing purpose
+
